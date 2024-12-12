@@ -3,7 +3,7 @@ import './App.css';
 
 // 添加这些常量定义
 const GRID_SIZE = 6;
-const ITEM_TYPES = 5;
+const ITEM_TYPES = 17;
 
 function App() {
   const [grid, setGrid] = useState([]);
